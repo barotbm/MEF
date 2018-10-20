@@ -6,7 +6,10 @@ namespace MEF_Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("eDR7xxx™ - e-Beam Wafer Defect Review and Classification Systems");
+
+
+            Console.ReadLine();
         }
     }
 }
